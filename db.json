@@ -1,0 +1,37 @@
+{
+  "vehiculos": [
+    {
+      "marca": "Fiat ",
+      "modelo": "500",
+      "tipo": "Coche urbano",
+      "unidades": 16.568
+    },
+	{
+      "marca": "Dacia",
+      "modelo": "Sandero",
+      "tipo": "Coche utilitario",
+      "unidades": 25.284
+    },
+	{
+      "marca": "Seat",
+      "modelo": "León",
+      "tipo": "Coche compacto",
+      "unidades": 27.577
+    },
+	{
+      "marca": "Mazda",
+      "modelo": "MX-5",
+      "tipo": "Coche deportivo",
+      "unidades": 427
+    },
+	{
+      "marca": "Seat",
+      "modelo": "Arona",
+      "tipo": "SUV pequeño",
+      "unidades": 19.704
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
